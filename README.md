@@ -1,2 +1,2 @@
 ## Tic Tac Toe
-Play it here: [https://tictactoe-javascript.netlify.app/ ](https://tictactoe-javascript.netlify.app/) 
+Play it here: [www.ghast.ga ](https://www.ghast.ga/) 
